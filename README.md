@@ -1,6 +1,6 @@
-# Hi there! 👋 Welcome to my GitHub
+# Hi there! 👋
 
-I'm a **UX Designer** with a passion for innovation, problem-solving, and creating meaningful user experiences. My work is a blend of design thinking, technical curiosity, and a drive to make technology more human-centric.  
+**Yassine Berdai** a **UX Designer** with a passion for innovation, problem-solving, and creating meaningful user experiences. My work is a blend of design thinking, technical curiosity, and a drive to make technology more human-centric.  
 
 ## 👩‍💻 About Me
 - 🌍 Based in Morocco, with an eye on gaining international experience in places like Poland.
